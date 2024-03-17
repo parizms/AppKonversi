@@ -3,3 +3,6 @@
 
                     2. LOGIN APP
 ![Screen Shot 2024-03-04 at 15 29 18](https://github.com/parizms/AppKonversi/assets/104338365/e934bc6d-afb8-4224-9eb6-e5a414e19904)
+
+                    3. HALAMAN UTAMA
+![Screen Shot 2024-03-04 at 12 32 04](https://github.com/parizms/AppKonversi/assets/104338365/6484f0a2-6943-481d-9356-b3b7d84f0b33)
